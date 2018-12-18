@@ -43,3 +43,5 @@ http://localhost:8080/
 
 ## 授权(LICENSE)
 [wechat is licensed under the Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+添加图片识别的功能
